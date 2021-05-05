@@ -1,11 +1,10 @@
 <h1 *align*="center">Menu Gaveta​​</h5>
 
 
-<p align="center">
-
-   <a href="https://github.com/ednaldosdl/Menu_Gaveta" target="_blank">
-      <img src="menu.gif" alt="Menu-gaveta"/>
-   </a>
+<p align="center">
+  <a href="https://github.com/ednaldosdl/Menu_Gaveta" target="_blank">
+    <img src="menu.gif" alt="Menu-gaveta"/>
+  </a>
 
 
 
