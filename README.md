@@ -3,17 +3,15 @@
 
 <p align="center">
 
-  <a href="https://github.com/ednaldosdl/Menu_Gaveta" target="_blank">
-
-    <img src="Menu-gaveta.gif" alt="Exemplo de Funcionalidade"/>
-
- </a>
+   <a href="https://github.com/ednaldosdl/Menu_Gaveta" target="_blank">
+      <img src="menu.gif" alt="Menu-gaveta"/>
+   </a>
 
 
 
 #  Menu Gaveta
 
- Construindo um menu gaveta..
+ Construindo um menu gaveta.
 
 
 ## Tarefas
@@ -30,7 +28,7 @@
 
 
 
-## Ícones**
+## Ícones
 
 - 📦 Nova funcionalidade
 
@@ -46,4 +44,4 @@
 
 <hr/>
 
-- Praticando o conhecimento de HTML, CSS e JavaScript.
+- Praticando o conhecimento de HTML, CSS e JavaScript na construção de um menu gaveta.
